@@ -1,5 +1,5 @@
 # BaiSo4
-Sinh Viên: Chu Hoàng Huy, MSV K2154801076
+Sinh Viên: Chu Hoàng Huy, MSV K215480106076
 
 Yêu cầu bài toán 
 - Tạo csdl cho hệ thống TKB (đã nghe giảng, đã xem cách làm)
